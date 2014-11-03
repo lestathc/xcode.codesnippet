@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 8816462F-8216-4493-BD96-F14F8F312940
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - NSObject
 
 /**
