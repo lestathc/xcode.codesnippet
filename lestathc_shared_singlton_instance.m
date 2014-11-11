@@ -1,5 +1,5 @@
 // lestathc shared singlton instance
-// 
+// The method to return the shared singlton instance.
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 2DAADD0D-CCB8-4BDC-A35B-20C93E581C9B
